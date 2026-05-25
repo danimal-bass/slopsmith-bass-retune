@@ -1,0 +1,12 @@
+{
+  "id": "bass_retune",
+  "name": "Bass Tab Retune",
+  "version": "1.0.0",
+  "nav": {
+    "label": "Bass Retune",
+    "screen": "plugin-bass_retune"
+  },
+  "screen": "screen.html",
+  "script": "screen.js",
+  "routes": "routes.py"
+}
