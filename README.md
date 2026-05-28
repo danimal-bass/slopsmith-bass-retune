@@ -1,4 +1,4 @@
-# bass_retune — Slopsmith Plugin
+# Bass Retune - Slopsmith Plugin
 
 Adds ability to append a selectable **E-standard bass arrangement (E A D G)** inside any PSARC whose bass track was recorded in an alternate tuning. The original arrangement remains in the file and is still selectable. Audio is never touched.
 
